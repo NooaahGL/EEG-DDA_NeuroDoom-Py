@@ -1,0 +1,18 @@
+# Core
+pymindwave2==0.3.1      # interfaz para NeuroSky MindWave Mobile 2
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.14.1
+
+# Visualización
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Utilidades
+pyyaml==6.0.2
+tqdm==4.66.5
+
+# Jupyter (opcional, para notebooks de análisis)
+jupyterlab==4.2.5
+notebook==7.2.2
+ipykernel==6.29.5
