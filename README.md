@@ -22,7 +22,10 @@ Este repositorio implementa la capa de adquisición EEG, comunicación con el pr
 ---
 
 ## ✨ Clonar el repositorio
-git clone https://github.com/NooaahGL/neurodoom-python.git
+git clone https://github.com/nooaahGL/eeg-dda_neurodoom-py.git
 cd neurodoom-python
 
 ---
+
+## 📜 Licencia
+Este proyecto se distribuye bajo licencia **MIT**.
