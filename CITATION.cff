@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "NeuroDoom-Python: EEG-driven Dynamic Difficulty Adjustment"
+version: "1.0.0"
+authors:
+  - family-names: "García Linares"
+    given-names: "Ainhoa"
+date-released: "2025-09-06"
+license: "Apache-2.0"
+repository-code: "https://github.com/nooaahGL/eeg-dda_neurodoom-py"
+doi: "10.5281/zenodo.17069729"
